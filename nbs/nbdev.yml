@@ -1,9 +1,0 @@
-project:
-  output-dir: _docs
-
-website:
-  title: "https://github.com/mochaccin/proyecto-datos.git"
-  site-url: "https://mochacchin.github.io/https://github.com/mochaccin/proyecto-datos.git"
-  description: "mini proyecto para sumar con las manos"
-  repo-branch: main
-  repo-url: "https://github.com/mochacchin/https://github.com/mochaccin/proyecto-datos.git"
